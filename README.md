@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-### Tech Stack
+## Little bit about me
+* I'm developing games!
+* Having more than 3 years of experience creating commercial games.
+* I develop for platforms such as ( Android / iOS / WebGL / Desktop (Steam))
+
+## Tech Stack
 
 <div id="badges">
   <a href="https://unity.com/">
@@ -27,7 +32,7 @@
   </a>
 </div>
 
-### Links
+## Links
 
 <div id="badges">
   <a href="https://www.behance.net/5b8dfd38">
@@ -36,12 +41,25 @@
   <a href="https://leetcode.com/svbdfrvr/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white%22%20alt=%22LeetCode%20Badge"/>
   </a>
+
+  ### CVs
+  <a href="https://drive.google.com/file/d/1c_RXc9iNbwX1FxJqyMaFvKrQQ7wMvQTd/view?usp=sharing">
+    <img src="https://img.shields.io/badge/CV(ru)-blue?style=for-the-badge&logo=googledrive&logoColor=white%22alt=%2CV_ru%20Badge"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1NQbBJzsaUKkKqvCc2MVO-P7pxHm0cPpr/view?usp=sharing">
+      <img src="https://img.shields.io/badge/CV(en)-orange?style=for-the-badge&logo=googledrive&logoColor=white%22alt=%2CV_en%20Badge"/>
+  </a>
+
+  ### Contact
   <a href="https://t.me/SvobodinF">
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white%22%20alt=%22Social%20Badge"/>
   </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNrdNjFccQmXFCtFxJnjgmSVSQhPskBNczzMTGSGZGJkMJmPwjtXzrXwhSsHkxfpXzJzfL">
+   <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white%22alt=%22Email%20Badge"/>
+  </a>
 </div>
 
-### Stats
+## Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SvobodinF&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
