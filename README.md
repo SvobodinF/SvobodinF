@@ -2,7 +2,7 @@
 
 ## Little bit about me
 * I'm developing games!
-* Having more than 3 years of experience creating commercial games.
+* Having more than 4 years of experience creating commercial games.
 * I develop for platforms such as ( Android / iOS / WebGL / Desktop (Steam))
 
 ## Tech Stack
